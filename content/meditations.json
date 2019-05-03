@@ -1,0 +1,490 @@
+{
+  "1": {
+    "url": "/meditations/1.jpg",
+    "title": "1013BFE",
+    "link": {
+      "left": "36",
+      "up": "32",
+      "down": "6",
+      "right": "2",
+      "index": "/why/2"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "2": {
+    "url": "/meditations/2.jpg",
+    "title": "5974BFE",
+    "link": {
+      "left": "1",
+      "up": "33",
+      "down": "7",
+      "right": "3",
+      "index": "/why/3"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "3": {
+    "url": "/meditations/3.jpg",
+    "title": "6553BFE",
+    "link": {
+      "left": "2",
+      "up": "34",
+      "down": "8",
+      "right": "4",
+      "index": "/why/4"
+    },
+    "transition": "left",
+    "button": "green"
+  },
+  "4": {
+    "url": "/meditations/4.jpg",
+    "title": "7107BFE",
+    "link": {
+      "left": "3",
+      "up": "35",
+      "down": "9",
+      "right": "5",
+      "index": "/why/5"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "5": {
+    "url": "/meditations/5.jpg",
+    "title": "7009BFE",
+    "link": {
+      "left": "4",
+      "up": "36",
+      "down": "10",
+      "right": "6",
+      "index": "/why/6"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "6": {
+    "url": "/meditations/6.jpg",
+    "title": "7298BFE",
+    "link": {
+      "left": "5",
+      "up": "1",
+      "down": "11",
+      "right": "7",
+      "index": "/why/7"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "7": {
+    "url": "/meditations/7.jpg",
+    "title": "9902BFE",
+    "link": {
+      "left": "6",
+      "up": "2",
+      "down": "12",
+      "right": "8",
+      "index": "/why/8"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "8": {
+    "url": "/meditations/8.jpg",
+    "title": "19:00",
+    "link": {
+      "left": "7",
+      "up": "3",
+      "down": "13",
+      "right": "9",
+      "index": "/why/9"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "9": {
+    "url": "/meditations/9.jpg",
+    "title": "19:01",
+    "link": {
+      "left": "8",
+      "up": "4",
+      "down": "14",
+      "right": "10",
+      "index": "/why/10"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "10": {
+    "url": "/meditations/10.jpg",
+    "title": "19:22",
+    "link": {
+      "left": "9",
+      "up": "5",
+      "down": "15",
+      "right": "11",
+      "index": "/why/11"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "11": {
+    "url": "/meditations/11.jpg",
+    "title": "19:25",
+    "link": {
+      "left": "10",
+      "up": "6",
+      "down": "16",
+      "right": "12",
+      "index": "/why/12"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "12": {
+    "url": "/meditations/12.jpg",
+    "title": "27:05",
+    "link": {
+      "left": "11",
+      "up": "7",
+      "down": "17",
+      "right": "13",
+      "index": "/why/13"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "13": {
+    "url": "/meditations/13.jpg",
+    "title": "27:11",
+    "link": {
+      "left": "12",
+      "up": "8",
+      "down": "18",
+      "right": "14",
+      "index": "/why/14"
+    },
+    "transition": "up",
+    "button": "green",
+    "shopify": "1.68475E+12"
+  },
+  "14": {
+    "url": "/meditations/14.jpg",
+    "title": "29:04",
+    "link": {
+      "left": "13",
+      "up": "9",
+      "down": "19",
+      "right": "15",
+      "index": "/why/15"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "15": {
+    "url": "/meditations/15.jpg",
+    "title": "29:08",
+    "link": {
+      "left": "14",
+      "up": "10",
+      "down": "20",
+      "right": "16",
+      "index": "/why/16"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "16": {
+    "url": "/meditations/16.jpg",
+    "title": "30:15",
+    "link": {
+      "left": "15",
+      "up": "11",
+      "down": "21",
+      "right": "17",
+      "index": "/why/17"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "17": {
+    "url": "/meditations/17.jpg",
+    "title": "30:32",
+    "link": {
+      "left": "16",
+      "up": "12",
+      "down": "22",
+      "right": "18",
+      "index": "/why/18"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "18": {
+    "url": "/meditations/18.jpg",
+    "title": "33:28",
+    "link": {
+      "left": "17",
+      "up": "13",
+      "down": "23",
+      "right": "19",
+      "index": "/why/19"
+    },
+    "transition": "down",
+    "button": "green",
+    "shopify": "1.68475E+12"
+  },
+  "19": {
+    "url": "/meditations/19.jpg",
+    "title": "33:33",
+    "link": {
+      "left": "18",
+      "up": "14",
+      "down": "24",
+      "right": "20",
+      "index": "/why/20"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "20": {
+    "url": "/meditations/20.jpg",
+    "title": "34:10",
+    "link": {
+      "left": "19",
+      "up": "15",
+      "down": "25",
+      "right": "21",
+      "index": "/why/21"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "21": {
+    "url": "/meditations/21.jpg",
+    "title": "34:15",
+    "link": {
+      "left": "20",
+      "up": "16",
+      "down": "26",
+      "right": "22",
+      "index": "/why/22"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "22": {
+    "url": "/meditations/22.jpg",
+    "title": "34:35",
+    "link": {
+      "left": "21",
+      "up": "17",
+      "down": "27",
+      "right": "23",
+      "index": "/why/23"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "23": {
+    "url": "/meditations/23.jpg",
+    "title": "39:08",
+    "link": {
+      "left": "22",
+      "up": "18",
+      "down": "28",
+      "right": "24",
+      "index": "/why/24"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "24": {
+    "url": "/meditations/24.jpg",
+    "title": "39:13",
+    "link": {
+      "left": "23",
+      "up": "19",
+      "down": "29",
+      "right": "25",
+      "index": "/why/25"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "25": {
+    "url": "/meditations/25.jpg",
+    "title": "39:13",
+    "link": {
+      "left": "24",
+      "up": "20",
+      "down": "30",
+      "right": "26",
+      "index": "/why/26"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "26": {
+    "url": "/meditations/26.jpg",
+    "title": "42:24",
+    "link": {
+      "left": "25",
+      "up": "21",
+      "down": "31",
+      "right": "27",
+      "index": "/why/27"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "27": {
+    "url": "/meditations/27.jpg",
+    "title": "44:15",
+    "link": {
+      "left": "26",
+      "up": "22",
+      "down": "32",
+      "right": "28",
+      "index": "/why/28"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "28": {
+    "url": "/meditations/28.jpg",
+    "title": "45:36",
+    "link": {
+      "left": "27",
+      "up": "23",
+      "down": "33",
+      "right": "29",
+      "index": "/why/29"
+    },
+    "transition": "right",
+    "button": "green",
+    "shopify": "1.68475E+12"
+  },
+  "29": {
+    "url": "/meditations/29.jpg",
+    "title": "50:17",
+    "link": {
+      "left": "28",
+      "up": "24",
+      "down": "34",
+      "right": "30",
+      "index": "/why/30"
+    },
+    "transition": "up",
+    "button": "red"
+  },
+  "30": {
+    "url": "/meditations/30.jpg",
+    "title": "47:19",
+    "link": {
+      "left": "29",
+      "up": "25",
+      "down": "35",
+      "right": "31",
+      "index": "/why/31"
+    },
+    "transition": "down",
+    "button": "red"
+  },
+  "31": {
+    "url": "/meditations/31.jpg",
+    "title": "54:20",
+    "link": {
+      "left": "30",
+      "up": "26",
+      "down": "36",
+      "right": "32",
+      "index": "/why/32"
+    },
+    "transition": "left",
+    "button": "green",
+    "shopify": "1.68475E+12"
+  },
+  "32": {
+    "url": "/meditations/32.jpg",
+    "title": "56:15",
+    "link": {
+      "left": "31",
+      "up": "27",
+      "down": "1",
+      "right": "33",
+      "index": "/why/33"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "33": {
+    "url": "/meditations/33.jpg",
+    "title": "57.35",
+    "link": {
+      "left": "32",
+      "up": "28",
+      "down": "2",
+      "right": "34",
+      "index": "/why/34"
+    },
+    "transition": "up",
+    "button": "green",
+    "shopify": "1.68475E+12"
+  },
+  "34": {
+    "url": "/meditations/34.jpg",
+    "title": "58.17",
+    "link": {
+      "left": "33",
+      "up": "29",
+      "down": "3",
+      "right": "35",
+      "index": "/why/35"
+    },
+    "transition": "down",
+    "button": "green",
+    "shopify": "1.68475E+12"
+  },
+  "35": {
+    "url": "/meditations/35.jpg",
+    "title": "58.05",
+    "link": {
+      "left": "34",
+      "up": "30",
+      "down": "4",
+      "right": "36",
+      "index": "/why/36"
+    },
+    "transition": "left",
+    "button": "red"
+  },
+  "36": {
+    "url": "/meditations/36.jpg",
+    "title": "60.31",
+    "link": {
+      "left": "35",
+      "up": "31",
+      "down": "5",
+      "right": "1",
+      "index": "/why/29"
+    },
+    "transition": "right",
+    "button": "red"
+  },
+  "37": {
+    "url": "/meditations/31.jpg",
+    "title": "A Meditation on the Pursuit of Nothing",
+    "link": {
+      "left": "",
+      "up": "",
+      "down": "",
+      "right": "",
+      "index": ""
+    },
+    "transition": "",
+    "button": "green",
+    "shopify": "why/1"
+  }
+}

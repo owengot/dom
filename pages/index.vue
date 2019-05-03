@@ -1,60 +1,52 @@
 <template>
 
-    <BaelGrid :allitems="allBlogPosts"></BaelGrid>
+<div class="grid">
+<div v-for="item in about">
+{{ item.file }}
+<img :src="'/pages/' + item.file" />
+</div>
+
+
+</div>
+
 </template>
 
 <script>
-import BaelGrid from "~/components/BaelGrid";
-export default {
-    watchQuery: ['page'],
+import about from "~/assets/why37.json";
 
-   transition (to, from) {
-     
-    if (!from) return 'fade'
-    return +to.query.page > +from.query.page ? 'slide-right' : 'slide-left'
+export default {
+  data() {
+    return {
+      about
+    }
   },
   name: "Index",
-  components: { BaelGrid },
-  data() {
-    return {};
-  },
-  methods: {},
-
-  computed: {
-    allBlogPosts() {
-      return this.$store.state.blogPosts;
-    }
-  }
 };
 </script>
+<style lang="sass">
+.grid
+  width: 100vw !important
+  display: block
+  height: 100vh !important
 
-<style>
+.row
+  width: 100%
+  height: 25vh !important
+  display: flex
+  justify-content: space-between
+  div
+    height: 100%
+    width: 33.33%
+    border: 1px solid green
+    display: inline-flex
+    justify-items: center
+    align-content: center
+    img
+      height: 90%
+      width: auto
+      display: inline-block
+      margin: 2% auto !important
 
-.browse a {
-  width: 100%;
-}
-.search:focus {
-  outline: none;
-}
-.footer__heading {
-  text-transform: uppercase;
-}
-nav .r {
-  grid-gap: 0;
-}
-.r.full-height {
-  grid-gap: 0;
-}
-@media only screen and (max-width: 40rem) {
-  .xs-collapse {
-    visibility: hidden;
-    visibility: collapse;
-    border: 0 !important;
-    border-color: none !important;
-    padding: 0 !important;
-  }
-  .xs-visible {
-    visibility: visible;
-  }
-}
+
 </style>
+

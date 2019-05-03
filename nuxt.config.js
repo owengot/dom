@@ -33,26 +33,16 @@ env: {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Archivo+Black' }
     ]
   },
-  css: ["@/assets/grid.css","bf-solid/dist/solid.latest.css"],
+  css: ["bf-solid/dist/solid.latest.css"],
   // icon: {
   //   iconSrc: `${siteInfo.siteicon}`
   //  },
   /*
   ** Customize the progress bar color
   */
-  loading: { color: '#3B8070' },
-  modules: ['@nuxtjs/markdownit', '@nuxtjs/pwa','@nuxtjs/axios'],
-  markdownit: {
-    injected: true,
-    preset: 'default',
-    breaks: true,
-    html: true
-
-    
-  },
+  modules: ['@nuxtjs/axios'],
   manifest: {
     name: siteInfo.sitename,
     short_name: siteInfo.sitename,
@@ -80,18 +70,11 @@ env: {
   ** Route config for pre-rendering
   */
  router: {
-  scrollBehavior: function (to, from, savedPosition) {
-    return { x: 0, y: 0 }
-  },
 middleware: ['title']
  },
   generate: {
     routes: dynamicRoutes
   },
-  plugins: ['~/plugins/vuefuse',{
-    src: "~/plugins/moment",
-    ssr: false
-  }],
   /*
   ** Build configuration
   */
